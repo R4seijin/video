@@ -84,7 +84,7 @@
     .box4 {
         float: right;
         padding: 0.5em 1em;
-        margin: 1em 1em 0 0;
+        margin: 1em 0.5em 0 0;
         border: double 5px #4ec4d3;
         width: 33%;
     }
